@@ -1,4 +1,11 @@
 body{
+    font-size: 350px;
     background-color: #000000;
     color: white;
 }
+
+
+h1 {
+    font-size: 500px;
+    color: white;
+  }
