@@ -1,11 +1,11 @@
 h1 {
-    font-size: xx-large;
+    font-size: 3rem;
     color: white;
   }
 
 
 body{
-    font-size: large;
+    font-size: 5rem;
     background-color: #000000;
     color: white;
 }
